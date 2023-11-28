@@ -1,0 +1,7 @@
+D:\Mphasis\ASSIGNMENTS\Assignment-22\Assignment-22\bin\Debug\Assignment-22.exe.config
+D:\Mphasis\ASSIGNMENTS\Assignment-22\Assignment-22\bin\Debug\Assignment-22.exe
+D:\Mphasis\ASSIGNMENTS\Assignment-22\Assignment-22\bin\Debug\Assignment-22.pdb
+D:\Mphasis\ASSIGNMENTS\Assignment-22\Assignment-22\obj\Debug\Assignment-22.csproj.AssemblyReference.cache
+D:\Mphasis\ASSIGNMENTS\Assignment-22\Assignment-22\obj\Debug\Assignment-22.csproj.CoreCompileInputs.cache
+D:\Mphasis\ASSIGNMENTS\Assignment-22\Assignment-22\obj\Debug\Assignment-22.exe
+D:\Mphasis\ASSIGNMENTS\Assignment-22\Assignment-22\obj\Debug\Assignment-22.pdb
